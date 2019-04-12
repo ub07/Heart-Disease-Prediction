@@ -20,17 +20,17 @@
       
       8. thalach: maximum heart rate achieved 
       
-      9.exang exercise induced angina (1 = yes; 0 = no) 
+      9.exang: exercise induced angina (1 = yes; 0 = no) 
       
-      10.oldpeak ST depression induced by exercise relative to rest 
+      10.oldpeak: ST depression induced by exercise relative to rest 
       
-      11.slope the slope of the peak exercise ST segment 
+      11.slope: the slope of the peak exercise ST segment 
       
-      12.ca number of major vessels (0-3) colored by flourosopy 
+      12.ca: number of major vessels (0-3) colored by flourosopy 
       
-      13.tha l3 = normal; 6 = fixed defect; 7 = reversable defect 
+      13.tha: l3 = normal; 6 = fixed defect; 7 = reversable defect 
       
-      14.target 1 or 0 
+      14.target: 1 or 0 
       
 I've coded this from scratch and the model was able to achieve 88 percent accuracy on the testing set that is considered to be quite good for a model coded from stratch
 
