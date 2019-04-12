@@ -1,8 +1,8 @@
 # Heart-Disease-Prediction
 
-Data Set Information:
+## Data Set Information:
 
-  attribute documentation: 
+  ### attribute documentation: 
   
       1. age: age in years
       
@@ -34,7 +34,7 @@ Data Set Information:
       
 I've coded this from scratch and the model was able to achieve 88 percent accuracy on the testing set that is considered to be quite good for a model coded from stratch
 
-  It consists of different file namely:
+  ## It consists of different file namely:
   
     data: Which extract data and manipulate as required
     
