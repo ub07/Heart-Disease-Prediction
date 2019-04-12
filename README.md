@@ -47,4 +47,6 @@ I've coded this from scratch and the model was able to achieve 88 percent accura
     predict: predict the target after optimization
    
     propagate: Cost and derivative are formed
+    
+    model: Consits of learning rates, num_iterations to predict the output
 
